@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="container">
+  <block wx:for-items="{{items}}">
+    <view class="flex item">
+      <view class="flex_auto item_left">
+        <view><text class="shop">{{item.shop}}</text></view>
+        <view><text class="address">{{item.address}}</text></view>
+        
+      </view>
+      <view class="item_right">
+        <view><text class="distance">{{item.distance}}</text></view>
+      </view>
+       <loading hidden="{{hidden}}"> 载入中 </loading>
+    </view>
+  </block>
+</view>

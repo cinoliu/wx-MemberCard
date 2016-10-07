@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/home/index",
+    "pages/shop/index",
+    "pages/my/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"white",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "优惠券",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F2f2f2",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/home/index",
+      "iconPath": "image/icon_normal.png",
+      "selectedIconPath": "image/icon_pressed.png",
+      "text": "优惠券"
+    }, {
+      "pagePath": "pages/shop/index",
+      "iconPath": "image/icon_normal.png",
+      "selectedIconPath": "image/icon_pressed.png",
+      "text": "门店"
+    }, {
+      "pagePath": "pages/my/index",
+      "iconPath": "image/icon_normal.png",
+      "selectedIconPath": "image/icon_pressed.png",
+      "text": "我的劵"
+    }]
+  },
+  "debug": true
+}
