@@ -1,10 +1,6 @@
 # wx-MemberCard
 说明：
 
-微信推出小程序，操作原理类似React Native,ionic framework 现实现一个小程序版微票
-
-
-
 目录结构：
 
 style — 存放独立wxcss文件，可import引入
