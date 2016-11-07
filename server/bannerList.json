@@ -1,4 +1,20 @@
-[
-  "https://raw.githubusercontent.com/cinoliu/wx-MemberCard/master/server/banner1.jpg",
-  "https://raw.githubusercontent.com/cinoliu/wx-MemberCard/master/server/banner2.jpg"
-]
+{
+    "errcode": "200", 
+    "errmsg": "ok", 
+    "banners": [
+        {
+            "banner_id": "001", 
+            "img_url": "https://raw.githubusercontent.com/cinoliu/wx-MemberCard/master/server/banner1.jpg", 
+            "banner_type": "1", 
+            "link_url": "http://****",
+            "ticketTemplateId":"89137,89137"
+        },
+       {
+            "banner_id": "002", 
+            "img_url": "https://raw.githubusercontent.com/cinoliu/wx-MemberCard/master/server/banner1.jpg", 
+            "banner_type": "1", 
+            "link_url": "http://****",
+            "ticketTemplateId":"89137,89137"
+        }
+    ]
+}
