@@ -11,7 +11,7 @@
         },
        {
             "banner_id": "002", 
-            "img_url": "https://raw.githubusercontent.com/cinoliu/wx-MemberCard/master/server/banner1.jpg", 
+            "img_url": "https://raw.githubusercontent.com/cinoliu/wx-MemberCard/master/server/demo.jpg", 
             "banner_type": "1", 
             "link_url": "http://****",
             "ticketTemplateId":"89137,89137"
