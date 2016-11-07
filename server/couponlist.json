@@ -1,0 +1,40 @@
+{
+    "errmsg": "ok", 
+    "coupon": {
+        "part_name": "普通", 
+        "union_ticketTemplateId": null, 
+        "bg_color": "#EF4B40", 
+        "nearestShop": {
+            "distance": 235860.30499400233, 
+            "address": "江苏省南京市溧水区秦淮路34号", 
+            "longitude": "119.04434", 
+            "latitude": "31.660004", 
+            "telephone": "025-68723530", 
+            "branch_name": "大润发溧水店"
+        }, 
+        "ticketTemplateId": "10000333", 
+        "coupon_detail": "奥利奥5条装巧克棒一盒测试", 
+        "change_rule": "凭券2元", 
+        "isReceived": "1", 
+        "brand_name": "2.0", 
+        "rules": [
+            "1.奥利奥5条装巧克棒一盒测试", 
+            "2.团购不参加此活动", 
+            "3.结账时请向收银员出示此券", 
+            "4.单张收银小票限抵用一张优惠券", 
+            "5.本券限用一次,不折现、不找零、不挂失", 
+            "6.如发生退货,优惠券恕不退还", 
+            "7.请在超市惠卡包查看和使用优惠券,打印或截图使用无效"
+        ], 
+        "coupon_img_urls": [            "http://image.sweetmartmarketing.com/coupon/10000333_1_vtZ1HB.jpg"
+        ], 
+        "title": "奥利奥2元测试券", 
+        "end_date": "2016-06-30", 
+        "isSurpassedLimit": "0", 
+        "h5_uri": null, 
+        "has_big": "0", 
+        "start_date": "2016-04-15", 
+        "mtel": "020-87707078"
+    }, 
+    "errcode": "200"
+}
